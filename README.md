@@ -1,7 +1,7 @@
 # Kovalenko Maxim
 ### Task
 
-* Light Text Editor
+* User Dialogue
 
 ### result
 
